@@ -13,7 +13,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salyone&show_icons=true&locale=en" alt="salyone" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salyone" alt="salyone" /></a> </p>
 
 
 
@@ -29,7 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalyOne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SalyOne&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salyone" alt="salyone" /></a> </p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SalyOne&limit=5&theme=dark&combine_all_yearly_contributions=true)
